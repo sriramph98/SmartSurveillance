@@ -1,4 +1,4 @@
-# Binge
+# SmartSurveillance
 
 ### Install
 
