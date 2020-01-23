@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbinge.a  CMakeFiles/binge.dir/src/Binge.cpp.o CMakeFiles/binge.dir/src/ContextParser.cpp.o CMakeFiles/binge.dir/src/Debug.cpp.o
+/usr/bin/ranlib libbinge.a
